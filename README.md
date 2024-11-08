@@ -1,2 +1,1 @@
-# primer-repositorio-de-git-hub
-Hola Mati este es tu primer repositorio de Git Hub
+este proyecto es una prueba de como crear un repositrio en Git Hub, y clonarlo desde git bash a mi escritorio local  
